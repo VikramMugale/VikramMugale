@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full Stack Developer &nbsp;|&nbsp; Angular & Node.js &nbsp;|&nbsp; AI & ML Enthusiast &nbsp;|&nbsp; Open to SDE / Full Stack / Frontend / Backend / AI-ML Roles</b><br/>
-  📍 Pune, India &nbsp;•&nbsp; 🎓 B.E. Computer Science – Final Year &nbsp;•&nbsp; 📊 CGPA: 8.19
+  📍 Pune, India &nbsp;•&nbsp; 🎓 B.E. Computer Science – Final Year &nbsp;•&nbsp; 📊 CGPA: 8.26
 </p>
 
 <p align="center">
@@ -33,10 +33,9 @@ I genuinely believe the **future belongs to AI** — which is why I'm actively e
 - 🌍 Built a real **ML model** predicting CO₂ emissions using Python — bridging data science with real-world impact
 - 🌱 Actively exploring **Machine Learning, AI APIs, and Data Science** — because the future is AI
 - 🧠 Strong CS fundamentals — **DSA (C++), OOP, DBMS, Software Engineering**
-- 
 - 🤝 Open to collaborating on impactful open source and AI-driven projects
 
----
+
 
 ## 🛠️ Tech Stack
 
