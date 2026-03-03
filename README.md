@@ -181,8 +181,3 @@ I genuinely believe the **future belongs to AI** — which is why I'm actively e
 
 <p align="center">📄 <i>Resume available on request — connect with me on LinkedIn!</i></p>
 
----
-
-<p align="center">
-  <i>⭐ "The future is AI — and I'm here to build it."</i>
-</p>
