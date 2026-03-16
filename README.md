@@ -26,7 +26,7 @@
 
 I'm a **final-year Computer Science student** and a hands-on **Full Stack Developer** who builds real, production-ready web applications. My core stack is **Angular, Node.js, Express.js, and MongoDB** — and I've shipped frontend work professionally during my internship at **Wesync Software Solutions**.
 
-I genuinely believe the **future belongs to AI** — which is why I'm actively exploring Machine Learning, AI APIs, and building AI-integrated applications alongside my web development journey.
+
 
 - 💼 Former **Frontend Developer Intern** @ Wesync Software Solutions
 - 🤖 Building AI-integrated apps — CodeAI uses **Gemini AI API** for automated code review
@@ -179,5 +179,4 @@ I genuinely believe the **future belongs to AI** — which is why I'm actively e
   </a>
 </p>
 
-<p align="center">📄 <i>Resume available on request — connect with me on LinkedIn!</i></p>
 
