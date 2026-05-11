@@ -6,9 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/VikramMugale">
-    <img src="https://komarev.com/ghpvc/?username=VikramMugale&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
   <a href="https://www.linkedin.com/in/vikram-mugale-04354a304/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
