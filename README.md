@@ -20,15 +20,6 @@ Building intelligent software using AI Agents, LLMs, RAG, and scalable Full Stac
 
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=VikramMugale&label=Profile%20Views&color=7AA2F7&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/VikramMugale?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/VikramMugale?affiliations=OWNER&style=for-the-badge"/>
-
-</p>
 
 ---
 
