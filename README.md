@@ -354,33 +354,6 @@ Travel itinerary planning platform.
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VikramMugale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramMugale&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VikramMugale&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikramMugale&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
 
 # 🏆 GitHub Trophies
 
@@ -439,12 +412,6 @@ Travel itinerary planning platform.
 
 ---
 
-# 🏅 Certifications
-
-- AWS Cloud Virtual Internship (AICTE – Eduskills)
-- AI & Generative AI Self-Learning Projects
-- Full Stack Development Projects
-- Machine Learning & Computer Vision Practice
 
 ---
 
@@ -452,15 +419,13 @@ Travel itinerary planning platform.
 
 | Qualification | Institute | Duration | Performance |
 |--------------|-----------|----------|------------|
-| 🎓 B.E. Computer Engineering | Sinhgad Institute of Technology | 2022 – 2026 | **CGPA: 8.26 / 10** |
+| 🎓 B.E. Computer Engineering | Sinhgad Institute of Technology | 2022 – 2026 | **CGPA: 8.39 / 10** |
 | 📘 Higher Secondary | Narayana Junior College | 2022 | **95.8%** |
 | 🏫 Secondary School | Sri Vishweshwaraiah High School | 2020 | **89.6%** |
 
 ---
 
-# 🌍 Open Source Goals
 
-I enjoy learning from the open-source community and aim to contribute by building useful projects, improving documentation, fixing issues, and collaborating with developers. My current focus is on creating practical AI-powered applications that solve real-world problems.
 
 ---
 
@@ -478,16 +443,6 @@ I enjoy solving challenging engineering problems and continuously improving my s
 
 ---
 
-# 📈 2026 Goals
-
-- ✅ Build production-ready AI applications
-- ✅ Contribute to open-source projects
-- ✅ Strengthen Data Structures & Algorithms
-- ✅ Master System Design fundamentals
-- ✅ Deepen expertise in LLMs, RAG, and AI Agents
-- ✅ Learn scalable backend architecture
-- ✅ Explore cloud deployment and MLOps
-- ✅ Publish technical blogs and project documentation
 
 ---
 
@@ -524,53 +479,7 @@ I enjoy solving challenging engineering problems and continuously improving my s
 
 ---
 
-# 💬 Quote
 
-> **"Great software isn't built by chasing complexity—it's built by understanding problems deeply, engineering thoughtfully, and never stopping the pursuit of learning."**
-
----
-
-# 🐍 Contribution Snake
-
-> **Create the following GitHub Action to enable the contribution snake animation:**
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: VikramMugale
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then add:
-
-```html
-<p align="center">
-<img src="https://raw.githubusercontent.com/VikramMugale/VikramMugale/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-```
-
----
 
 # ❤️ Support My Work
 
