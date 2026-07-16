@@ -1,179 +1,593 @@
-<h1 align="center">👋 Hey there, I'm Vikram Mugale</h1>
+<!-- ========================================================= -->
+<!--                 VIKRAM MUGALE GITHUB PROFILE              -->
+<!-- ========================================================= -->
+
+<h1 align="center">
+Hi 👋 I'm Vikram Rahul Mugale
+</h1>
+
+<h3 align="center">
+AI Engineer • Full Stack Developer • Machine Learning Enthusiast
+</h3>
 
 <p align="center">
-  <b>Full Stack Developer &nbsp;|&nbsp; Angular & Node.js &nbsp;|&nbsp; AI & ML Enthusiast &nbsp;|&nbsp; Open to SDE / Full Stack / Frontend / Backend / AI-ML Roles</b><br/>
-  📍 Pune, India &nbsp;•&nbsp; 🎓 B.E. Computer Science – Final Year &nbsp;•&nbsp; 📊 CGPA: 8.26
+Building intelligent software using AI Agents, LLMs, RAG, and scalable Full Stack technologies.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vikram-mugale-04354a304/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vikram.mugale826@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/VikramMugale">
-    <img src="https://img.shields.io/github/followers/VikramMugale?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Building+AI+Powered+Applications;LangChain+•+CrewAI+•+Python;Angular+•+Node.js+•+MongoDB;Always+Learning+New+Technologies" />
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=VikramMugale&label=Profile%20Views&color=7AA2F7&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/VikramMugale?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/VikramMugale?affiliations=OWNER&style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a **final-year Computer Science student** and a hands-on **Full Stack Developer** who builds real, production-ready web applications. My core stack is **Angular, Node.js, Express.js, and MongoDB** — and I've shipped frontend work professionally during my internship at **Wesync Software Solutions**.
+I'm a Computer Engineering graduate passionate about building intelligent software that combines **Artificial Intelligence** with **modern Full Stack Development**.
 
+I enjoy designing scalable backend systems, creating intuitive user experiences, integrating Large Language Models into real-world applications, and continuously learning emerging technologies.
 
-
-- 💼 Former **Frontend Developer Intern** @ Wesync Software Solutions
-- 🤖 Building AI-integrated apps — CodeAI uses **Gemini AI API** for automated code review
-- 🌍 Built a real **ML model** predicting CO₂ emissions using Python — bridging data science with real-world impact
-- 🌱 Actively exploring **Machine Learning, AI APIs, and Data Science** — because the future is AI
-- 🧠 Strong CS fundamentals — **DSA (C++), OOP, DBMS, Software Engineering**
-- 🤝 Open to collaborating on impactful open source and AI-driven projects
-
-
-
-## 🛠️ Tech Stack
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### AI & Data
-![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-
-### CS Fundamentals
-![DSA](https://img.shields.io/badge/DSA%20with%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Concepts-blueviolet?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-Fundamentals-orange?style=for-the-badge)
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-Principles-green?style=for-the-badge)
+My goal is to contribute to products that solve meaningful problems while growing as a software engineer through challenging engineering opportunities.
 
 ---
 
 ## 💼 Experience
 
-### 🏢 Frontend Developer Intern — Wesync Software Solutions
+### Frontend Developer Intern
+
+**Wesync Software Solutions**
+
 📅 January 2025 – April 2025
 
-- Developed responsive UI components for a **Learning Management System**
-- Collaborated with the backend team to **integrate REST APIs** and ensure seamless user experience
-- Leveraged **AI-assisted development tools** to accelerate delivery timelines
-- Delivered production-ready UI within project deadlines in a fast-paced startup environment
+- Developed responsive Angular components for an enterprise Learning Management System.
+- Integrated REST APIs with frontend modules.
+- Worked closely with backend developers to deliver production-ready features.
+- Improved UI responsiveness and user experience.
+- Participated in debugging, testing, and feature enhancements.
+- Followed Git-based collaborative development workflows.
 
 ---
 
-## 🔥 Featured Projects
+# 🛠 Engineering Stack
 
-### 🤖 AI-Integrated & Full Stack Projects
+## 💻 Languages
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🤖 **[CodeAI – AI Code Review Platform](https://github.com/VikramMugale/CodeAI)** | Full stack app for automated code review using **Gemini AI API**. Includes JWT auth, file uploads, syntax-highlighted AI feedback dashboard | Angular, Node.js, Express.js, MongoDB, Gemini API |
-| 📊 **[EduTrack – Student Management System](https://github.com/VikramMugale/EduTrack)** | Comprehensive student management app with **role-based access control**, admin dashboard, and RESTful APIs | Angular, Node.js, Express.js, MongoDB |
-| 🌍 **[Wander – Travel Itinerary Planner](https://github.com/VikramMugale/Wander)** | Full stack travel planning app with **MVC architecture**, server-side routing, and dynamic EJS templating | Node.js, Express.js, MongoDB, EJS |
-| 📚 **[Book Inventory Management System](https://github.com/VikramMugale/Book-Inventory)** | CRUD-based inventory system with structured backend logic and database integration | Node.js, Express.js, MongoDB |
-| 🎓 **[LMS – Learning Management System](https://github.com/VikramMugale/LMS)** | Full stack LMS managing courses, users, and modular learning workflows | Angular, Node.js, MongoDB |
+<p>
 
-### 🧠 Learning & Skill-Building Repos
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,mysql"/>
 
-| Repository | What It Shows |
-|---|---|
-| **[Typescript-basic-Codes](https://github.com/VikramMugale/Typescript-basic-Codes)** | TypeScript fundamentals — types, interfaces, generics, OOP patterns |
-| **[Inter-Component-Communication](https://github.com/VikramMugale/Inter-Component-Communication)** | Deep dive into Angular's `@Input`, `@Output`, services, and EventEmitter patterns |
-| **[Angular4](https://github.com/VikramMugale/Angular4) / [Angular5](https://github.com/VikramMugale/Angular5) / [Angular6](https://github.com/VikramMugale/Angular6)** | Progressive Angular learning — routing, forms, modules, component architecture |
-| **[MarvellousFirst](https://github.com/VikramMugale/MarvellousFirst)** | First HTML/CSS project — where the journey began 🚀 |
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/users/VikramMugale/achievements/pull-shark">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" title="Pull Shark" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/users/VikramMugale/achievements/quickdraw">
-    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" title="Quickdraw" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/users/VikramMugale/achievements/yolo">
-    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" title="YOLO" />
-  </a>
-</p>
-
-| 🦈 Pull Shark | ⚡ Quickdraw | 🎯 YOLO |
-|:---:|:---:|:---:|
-| Merged meaningful pull requests demonstrating solid collaboration | Lightning-fast issue & PR resolution | Bold, independent contribution style |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VikramMugale&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramMugale&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikramMugale&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📚 Education
+## 🎨 Frontend
 
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| 🎓 B.E. Computer Science | Sinhgad Institute of Technology | 2022 – 2026 | CGPA: 8.26 |
-| 📖 Pre-University (12th) | Narayana Junior College | 2022 | 95.8% |
-| 🏫 Secondary (10th) | Sri Vishweshwaraiah High School | 2020 | 89.6% |
+<p>
+
+<img src="https://skillicons.dev/icons?i=angular,bootstrap"/>
+
+</p>
+
+- Responsive UI
+- Component Architecture
+- SPA Development
 
 ---
 
-## 🤝 Let's Connect
+## ⚙ Backend
 
-<p align="center">
-  <a href="https://github.com/VikramMugale">
-    <img src="https://img.shields.io/badge/GitHub-VikramMugale-181717?style=for-the-badge&logo=github" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/vikram-mugale-04354a304/">
-    <img src="https://img.shields.io/badge/LinkedIn-Vikram%20Mugale-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  &nbsp;
-  <a href="mailto:vikram.mugale826@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-vikram.mugale826-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
 </p>
 
+Experienced in
 
+- REST APIs
+- JWT Authentication
+- Secure Routing
+- CRUD Applications
+- API Integration
+
+---
+
+## 🗄 Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+
+</p>
+
+Also familiar with
+
+- Vector Databases
+- Database Design
+- Query Optimization
+
+---
+
+## 🤖 Artificial Intelligence
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+Working with
+
+- LangChain
+- CrewAI
+- Google Gemini API
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Large Language Models
+- Semantic Search
+- Streamlit
+
+---
+
+## 🔧 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</p>
+
+---
+
+## 📚 Computer Science Fundamentals
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
+- Operating Systems
+- Software Engineering
+- Problem Solving
+
+---
+
+# 🏗 Engineering Expertise
+
+✔ REST API Development
+
+✔ JWT Authentication
+
+✔ Full Stack Web Development
+
+✔ AI Integration
+
+✔ RAG Pipelines
+
+✔ Multi-Agent Workflows
+
+✔ Database Design
+
+✔ Responsive UI Development
+
+✔ Component-Based Architecture
+
+✔ Git Version Control
+
+✔ Clean Code Practices
+
+✔ Debugging & Optimization
+
+---
+
+# 🌟 Featured Projects
+
+## 🤖 AI-Powered Ticket Resolution System
+
+### Problem
+
+Customer support teams spend significant time manually classifying and assigning support tickets.
+
+### Solution
+
+Developed an AI-powered ticket management platform that automatically analyzes incoming support requests, predicts severity, classifies categories, and intelligently assigns tickets using specialized AI agents.
+
+### Tech Stack
+
+Python • Streamlit • CrewAI • PostgreSQL • OpenAI
+
+### Highlights
+
+- Multi-Agent AI Workflow
+- Intelligent Ticket Assignment
+- Severity Prediction
+- Activity Logging
+- Real-time Dashboard
+- Email Notifications
+- Production Database Design
+
+---
+
+## 🩺 MediChatBot — AI Medical Assistant
+
+### Overview
+
+Developed a Retrieval-Augmented Generation (RAG) chatbot capable of answering healthcare-related questions using medical documents.
+
+### Technologies
+
+- LangChain
+- Gemini API
+- Vector Database
+- Python
+
+### Features
+
+- Semantic Search
+- Document Retrieval
+- AI-generated Responses
+- Context-aware Answers
+- RAG Pipeline
+
+---
+
+## 💻 CodeAI — AI Code Review Platform
+
+### Overview
+
+AI-powered code review application that analyzes uploaded source code using Google Gemini and generates suggestions to improve code quality.
+
+### Technologies
+
+Angular
+
+Node.js
+
+Express.js
+
+MongoDB
+
+Gemini API
+
+### Features
+
+- Secure JWT Authentication
+- File Upload
+- AI Code Review
+- Bug Detection
+- Code Quality Suggestions
+- Responsive Dashboard
+
+---
+
+## 🎓 EduTrack
+
+Student Management Platform with role-based authentication.
+
+### Features
+
+- Student Portal
+- Admin Dashboard
+- REST APIs
+- CRUD Operations
+- Authentication
+- User Management
+
+---
+
+## 🌍 Wander
+
+Travel itinerary planning platform.
+
+### Highlights
+
+- MVC Architecture
+- Express Routing
+- MongoDB
+- Dynamic EJS Templates
+- Responsive UI
+
+---
+
+# 🚀 Professional Highlights
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🏆 Engineering
+
+- Full Stack Development
+- AI Applications
+- REST APIs
+- Angular
+- Node.js
+- MongoDB
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI
+
+- CrewAI
+- LangChain
+- Gemini API
+- AI Agents
+- RAG
+- Prompt Engineering
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌱 Currently Exploring
+
+- Agentic AI
+- Multi-Agent Systems
+- LangGraph
+- Model Context Protocol (MCP)
+- Advanced RAG
+- AI Workflows
+- LLM Evaluation
+- System Design
+- Software Architecture
+- Cloud Deployment
+- Machine Learning
+- Computer Vision
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VikramMugale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramMugale&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VikramMugale&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikramMugale&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VikramMugale&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 📋 GitHub Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikramMugale&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VikramMugale&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VikramMugale&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikramMugale&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VikramMugale&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 💻 LeetCode
+
+<p align="center">
+
+<a href="https://leetcode.com/u/MugaleVikram/">
+
+<img src="https://leetcard.jacoblin.cool/MugaleVikram?theme=dark&font=Nunito&ext=contest"/>
+
+</a>
+
+</p>
+
+### Problem Solving
+
+- Solving Data Structures & Algorithms problems regularly
+- Strengthening interview preparation through LeetCode
+- Practicing algorithmic thinking and optimization
+- Focusing on Arrays, Strings, Trees, Graphs, Dynamic Programming, and System Design fundamentals
+
+---
+
+# 🏅 Certifications
+
+- AWS Cloud Virtual Internship (AICTE – Eduskills)
+- AI & Generative AI Self-Learning Projects
+- Full Stack Development Projects
+- Machine Learning & Computer Vision Practice
+
+---
+
+# 🎓 Education
+
+| Qualification | Institute | Duration | Performance |
+|--------------|-----------|----------|------------|
+| 🎓 B.E. Computer Engineering | Sinhgad Institute of Technology | 2022 – 2026 | **CGPA: 8.26 / 10** |
+| 📘 Higher Secondary | Narayana Junior College | 2022 | **95.8%** |
+| 🏫 Secondary School | Sri Vishweshwaraiah High School | 2020 | **89.6%** |
+
+---
+
+# 🌍 Open Source Goals
+
+I enjoy learning from the open-source community and aim to contribute by building useful projects, improving documentation, fixing issues, and collaborating with developers. My current focus is on creating practical AI-powered applications that solve real-world problems.
+
+---
+
+# 🎯 Career Objective
+
+I am seeking opportunities where I can contribute as a:
+
+- Software Development Engineer (SDE)
+- AI Engineer
+- Machine Learning Engineer
+- Full Stack Developer
+- Backend Developer
+
+I enjoy solving challenging engineering problems and continuously improving my skills through hands-on development.
+
+---
+
+# 📈 2026 Goals
+
+- ✅ Build production-ready AI applications
+- ✅ Contribute to open-source projects
+- ✅ Strengthen Data Structures & Algorithms
+- ✅ Master System Design fundamentals
+- ✅ Deepen expertise in LLMs, RAG, and AI Agents
+- ✅ Learn scalable backend architecture
+- ✅ Explore cloud deployment and MLOps
+- ✅ Publish technical blogs and project documentation
+
+---
+
+# ⚡ Fun Facts
+
+- 🤖 I enjoy building AI-powered applications that solve practical problems.
+- 💡 I like exploring new technologies and experimenting with modern AI frameworks.
+- 📚 Continuous learning is a core part of my engineering journey.
+- 🌍 I believe impactful software comes from combining strong fundamentals with curiosity and innovation.
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:vikram.mugale826@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vikram-mugale-04354a304/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/VikramMugale">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/MugaleVikram/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"Great software isn't built by chasing complexity—it's built by understanding problems deeply, engineering thoughtfully, and never stopping the pursuit of learning."**
+
+---
+
+# 🐍 Contribution Snake
+
+> **Create the following GitHub Action to enable the contribution snake animation:**
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: VikramMugale
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then add:
+
+```html
+<p align="center">
+<img src="https://raw.githubusercontent.com/VikramMugale/VikramMugale/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+```
+
+---
+
+# ❤️ Support My Work
+
+If you like my projects or find them useful, consider giving them a ⭐. It motivates me to continue building, learning, and contributing to the developer community.
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=120&section=footer"/>
+
+</p>
+
+<p align="center">
+
+### Thanks for visiting my profile! 🚀
+
+**Let's build something impactful together.**
+
+</p>
