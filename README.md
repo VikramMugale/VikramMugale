@@ -35,7 +35,7 @@ My goal is to contribute to products that solve meaningful problems while growin
 
 ## 💼 Experience
 
-### Frontend Developer Intern
+### Software Engineer Intern
 
 **Wesync Software Solutions**
 
